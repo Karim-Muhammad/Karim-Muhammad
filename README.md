@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim Muhammad</h1>
 <h3 align="center">I just learner.</h3>
 
-- 👨‍💻 All of my projects are available at [https://Karim-Muhammad.github.io/simple_portfolio/](https://kimoomar1.github.io/simple_portfolio/)
+- 👨‍💻 All of my projects are available at [https://karim-muhammad.github.io/simple_portfolio/](https://kimoomar1.github.io/simple_portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
