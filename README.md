@@ -69,7 +69,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
       <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/jquery-original.svg" alt="jquery" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40"
       height="40" /> </a> </p>
 
 <br>
