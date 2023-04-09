@@ -22,12 +22,12 @@
   <a href="https://www.linkedin.com/in/karim-muhammad-a35a44225/" target="blank">
       <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin_karim" height="200" width="200" />
+      alt="linkedin_karim" height="40" width="40" />
   </a>
     <a href="https://Discordapp.com/users/483450452965326848" target="blank">
         <img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png"
-        alt="discord_karim" height="30" width="40" />
+        alt="discord_karim" height="30" width="70" />
     </a>
   <a href="https://www.hackerrank.com/kimoomar007" target="blank">
       <img align="center"
