@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim Muhammad</h1>
-<h3 align="center">Student CS, Assiut University</h3>
+<h3 align="center">CS Student, Web Developer</h3>
 
 <br>
 
