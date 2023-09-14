@@ -79,7 +79,7 @@
 	<!-- Express -->
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+			src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"
 			alt="express"
 			width="40"
 			height="40"
