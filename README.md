@@ -39,38 +39,172 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" />
-      </a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" />
-      </a>
-      <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"> <img
-      src="https://cloud.githubusercontent.com/assets/6522912/14928850/47e2f9d4-0e52-11e6-8fe2-edc02647bf59.png" alt="pugjs" width="40"
-      height="40" />
-      </a>
-      <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40"
-      height="40" /></p>
+<p align="left">
+	<!-- C++ -->
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+			alt="cplusplus"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- Java -->
+	<a href="https://www.java.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+			alt="java"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- Python -->
+	<a href="https://www.python.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+			alt="python"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- Nodejs -->
+	<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg"
+			alt="java"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- Express -->
+	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+			alt="express"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- typescript -->
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+			alt="typescript"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- mongodb -->
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+			alt="mongodb"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- HTML -->
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+			alt="html5"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- CSS -->
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+			alt="css3"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- Bootstrap -->
+	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+			alt="bootstrap"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- Javascript -->
+	<a
+		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+		target="_blank"
+		rel="noreferrer"
+	>
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			alt="javascript"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- React -->
+	<a href="https://react.dev/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+			alt="javascript"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- Webpack -->
+	<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
+			alt="javascript"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- Gulpjs -->
+	<a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-3x.png"
+			alt="gulpjs"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- SASS/SCSS -->
+	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+			alt="sass"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- Pugjs -->
+	<a
+		href="https://pugjs.org/api/getting-started.html"
+		target="_blank"
+		rel="noreferrer"
+	>
+		<img
+			src="https://cloud.githubusercontent.com/assets/6522912/14928850/47e2f9d4-0e52-11e6-8fe2-edc02647bf59.png"
+			alt="pugjs"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<!-- JQuery -->
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
+		alt="jquery"
+		width="40"
+		height="40"
+	/>
+</p>
 
-<br>
+<br />
+
+
+
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
