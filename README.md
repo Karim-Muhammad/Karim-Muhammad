@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karim Muhammad</h1>
 <h3 align="center">CS Student, Web Developer</h3>
 
+<img src='https://github.com/Karim-Muhammad/Karim-Muhammad/blob/main/GitGithub(3).jpg'/>
+
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=karim-muhammad&label=Profile%20views&color=0e75b6&style=flat"
